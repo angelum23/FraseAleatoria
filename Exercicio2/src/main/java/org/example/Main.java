@@ -12,8 +12,6 @@ public class Main {
         Jogador jogador = new Jogador();
         jogador.setIdade(18);
 
-        System.out.println("O jogador " + jogador.getNome() + " " + jogador.getSobrenome() +
-                           " que joga na posição de " + jogador.getPosicao() + " tem " + jogador.getIdade() +
-                           " anos, defende o clube " + jogador.getClube());
+
     }
 }
